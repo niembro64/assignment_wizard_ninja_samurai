@@ -35,13 +35,36 @@ namespace assignment_wizard_ninja_samurai
     }
 
     // Build Attack method
-    public int Attack(Human target)
+    public virtual int Attack(Human target)
     {
       int dmg = Strength * 3;
       target.health -= dmg;
       Console.WriteLine($"{Name} attacked {target.Name} for {dmg} damage!");
       return target.health;
     }
+
+    public void ChangeHealth(int amount)
+    {
+      this.health += amount;
+    }
+
+    public Human Stats()
+    {
+      a.sss();
+      a.ss($"         Name: {this.Name}");
+      a.ss($"     Strength: {this.Strength}");
+      a.ss($" Intelligence: {this.Intelligence}");
+      a.ss($"    Dexterity: {this.Dexterity}");
+      a.ss($"       Health: {this.Health}");
+      a.sss();
+      return this;
+    }
   }
 
 }
+
+// Name = name;
+// Strength = str;
+// Intelligence = intel;
+// Dexterity = dex;
+// health = hp;

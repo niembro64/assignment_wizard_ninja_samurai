@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nieme\\Documents\\CodingDojo\\CSharpStack2022\\11.3\\assignment_wizard_ninja_samurai\\assignment_wizard_ninja_samurai.csproj": {}
+    "C:\\Users\\nieme\\Documents\\CodingDojo\\CSharpStack2022\\1.3\\assignment_wizard_ninja_samurai\\assignment_wizard_ninja_samurai.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nieme\\Documents\\CodingDojo\\CSharpStack2022\\11.3\\assignment_wizard_ninja_samurai\\assignment_wizard_ninja_samurai.csproj": {
+    "C:\\Users\\nieme\\Documents\\CodingDojo\\CSharpStack2022\\1.3\\assignment_wizard_ninja_samurai\\assignment_wizard_ninja_samurai.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nieme\\Documents\\CodingDojo\\CSharpStack2022\\11.3\\assignment_wizard_ninja_samurai\\assignment_wizard_ninja_samurai.csproj",
+        "projectUniqueName": "C:\\Users\\nieme\\Documents\\CodingDojo\\CSharpStack2022\\1.3\\assignment_wizard_ninja_samurai\\assignment_wizard_ninja_samurai.csproj",
         "projectName": "assignment_wizard_ninja_samurai",
-        "projectPath": "C:\\Users\\nieme\\Documents\\CodingDojo\\CSharpStack2022\\11.3\\assignment_wizard_ninja_samurai\\assignment_wizard_ninja_samurai.csproj",
+        "projectPath": "C:\\Users\\nieme\\Documents\\CodingDojo\\CSharpStack2022\\1.3\\assignment_wizard_ninja_samurai\\assignment_wizard_ninja_samurai.csproj",
         "packagesPath": "C:\\Users\\nieme\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nieme\\Documents\\CodingDojo\\CSharpStack2022\\11.3\\assignment_wizard_ninja_samurai\\obj\\",
+        "outputPath": "C:\\Users\\nieme\\Documents\\CodingDojo\\CSharpStack2022\\1.3\\assignment_wizard_ninja_samurai\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nieme\\AppData\\Roaming\\NuGet\\NuGet.Config"

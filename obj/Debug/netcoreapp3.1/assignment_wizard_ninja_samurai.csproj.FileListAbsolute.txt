@@ -1,0 +1,13 @@
+C:\Users\nieme\Documents\CodingDojo\CSharpStack2022\1.3\assignment_wizard_ninja_samurai\bin\Debug\netcoreapp3.1\assignment_wizard_ninja_samurai.exe
+C:\Users\nieme\Documents\CodingDojo\CSharpStack2022\1.3\assignment_wizard_ninja_samurai\bin\Debug\netcoreapp3.1\assignment_wizard_ninja_samurai.deps.json
+C:\Users\nieme\Documents\CodingDojo\CSharpStack2022\1.3\assignment_wizard_ninja_samurai\bin\Debug\netcoreapp3.1\assignment_wizard_ninja_samurai.runtimeconfig.json
+C:\Users\nieme\Documents\CodingDojo\CSharpStack2022\1.3\assignment_wizard_ninja_samurai\bin\Debug\netcoreapp3.1\assignment_wizard_ninja_samurai.runtimeconfig.dev.json
+C:\Users\nieme\Documents\CodingDojo\CSharpStack2022\1.3\assignment_wizard_ninja_samurai\bin\Debug\netcoreapp3.1\assignment_wizard_ninja_samurai.dll
+C:\Users\nieme\Documents\CodingDojo\CSharpStack2022\1.3\assignment_wizard_ninja_samurai\bin\Debug\netcoreapp3.1\assignment_wizard_ninja_samurai.pdb
+C:\Users\nieme\Documents\CodingDojo\CSharpStack2022\1.3\assignment_wizard_ninja_samurai\obj\Debug\netcoreapp3.1\assignment_wizard_ninja_samurai.csprojAssemblyReference.cache
+C:\Users\nieme\Documents\CodingDojo\CSharpStack2022\1.3\assignment_wizard_ninja_samurai\obj\Debug\netcoreapp3.1\assignment_wizard_ninja_samurai.AssemblyInfoInputs.cache
+C:\Users\nieme\Documents\CodingDojo\CSharpStack2022\1.3\assignment_wizard_ninja_samurai\obj\Debug\netcoreapp3.1\assignment_wizard_ninja_samurai.AssemblyInfo.cs
+C:\Users\nieme\Documents\CodingDojo\CSharpStack2022\1.3\assignment_wizard_ninja_samurai\obj\Debug\netcoreapp3.1\assignment_wizard_ninja_samurai.csproj.CoreCompileInputs.cache
+C:\Users\nieme\Documents\CodingDojo\CSharpStack2022\1.3\assignment_wizard_ninja_samurai\obj\Debug\netcoreapp3.1\assignment_wizard_ninja_samurai.dll
+C:\Users\nieme\Documents\CodingDojo\CSharpStack2022\1.3\assignment_wizard_ninja_samurai\obj\Debug\netcoreapp3.1\assignment_wizard_ninja_samurai.pdb
+C:\Users\nieme\Documents\CodingDojo\CSharpStack2022\1.3\assignment_wizard_ninja_samurai\obj\Debug\netcoreapp3.1\assignment_wizard_ninja_samurai.genruntimeconfig.cache
